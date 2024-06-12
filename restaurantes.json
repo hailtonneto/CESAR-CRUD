@@ -1,0 +1,20 @@
+[
+    {
+        "nomeRestaurante": "Burger Queen",
+        "notaRest": 5.0,
+        "enderecoRest": "recife",
+        "telefoneRest": "1234556778",
+        "mesasRest": 30,
+        "horariosFuncionamento": "24h",
+        "cardapio": "alface\n\t\t\t\ttomate\n\t\t\t\tcebola"
+    },
+    {
+        "nomeRestaurante": "Mc'Donalds",
+        "notaRest": 5.0,
+        "enderecoRest": "Rua Jorge de Lima",
+        "telefoneRest": "81995194020",
+        "mesasRest": 10,
+        "horariosFuncionamento": "08h - 00h",
+        "cardapio": "Hamburguer\n\t\t\t\tBatata Frita\n\t\t\t\tRefrigerante"
+    }
+]
